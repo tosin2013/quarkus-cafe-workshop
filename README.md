@@ -103,4 +103,4 @@ password: workshop
 ```
 
 ## Local deployment and development Steps 
-[Local Deployment Steps](.workshop/scripts/README.md)
+[Local Deployment Steps](https://github.com/openshift-homeroom/workshop-scripts/tree/28bdf09f9cd81fb82ef041f672302fbc05a4397c)
