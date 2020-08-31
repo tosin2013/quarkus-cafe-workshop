@@ -2,3 +2,5 @@
 	path = .workshop/scripts
 	url = https://github.com/openshift-homeroom/spawner-scripts.git
 	branch = stable/1.x
+	ignore = dirty
+
