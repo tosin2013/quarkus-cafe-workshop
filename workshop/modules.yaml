@@ -1,0 +1,16 @@
+modules:
+    workshop-overview:
+        name: Workshop Overview
+        exit_sign: Setup Environment
+    setup-environment:
+        name: Setup Environment
+        exit_sign: Start Workshop
+    exercises/01-creating-and-testing-rest-endpoints:
+        name: Creating and testing rest endpoints
+    exercises/02-create-panache-entity:
+        name: Create a Panache Entity
+    exercises/03-marshall-from-incoming-to-outgoing-entity:
+        name: Marshall from Incoming to Outgoing entity
+    workshop-summary:
+        name: Workshop Summary
+        exit_sign: Finish Workshop

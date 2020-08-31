@@ -1,0 +1,10 @@
+name: Quarkus Cafe Workshop
+
+modules:
+    activate:
+    - workshop-overview
+    - setup-environment
+    - exercises/01-creating-and-testing-rest-endpoints
+    - exercises/02-create-panache-entity
+    - exercises/03-marshall-from-incoming-to-outgoing-entity
+    - workshop-summary
